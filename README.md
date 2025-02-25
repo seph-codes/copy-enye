@@ -1,2 +1,2 @@
 # copy-enye
-copy paste enye
+copy enye
